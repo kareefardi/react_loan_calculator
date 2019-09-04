@@ -1,0 +1,58 @@
+.input-range__label {
+  color: #000000;
+  }
+
+.form {
+  margin: 0 auto;
+  padding: 20px 70px 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/*
+.containerTop {
+	overflow : hidden;
+	padding : 5px;
+}
+
+.containerSlider {
+	width : 80%;
+	float : right;
+	margin : 0 auto;
+}
+
+.containerForm {
+	width : 20%;
+	float : left;
+	margin : 0 auto;
+}
+*/
+.heading {
+	text-align : center;
+	font-size : 16pt;
+}
+.containerTop {
+	display : flex;
+	align-items : center;
+	padding : 5px;
+	flex-direction : reverse;
+	
+}
+
+.containerSlider {
+	width : 70%;
+	margin : 0 auto;
+	padding-left : 10px;
+	padding-right : 10px;
+}
+
+.containerForm {
+	width : 12%;
+	margin : 0 auto;
+	display : flex;
+	flex-direction : column;
+}
+.textBox {
+	display : block;
+	width : 100%;
+}
